@@ -4,6 +4,7 @@ namespace NoteTweetConnector
 {
 	class MainClass
 	{
+        // 以下の二行は正直者にしか見えない
 		private const String CONSUMER_KEY = "E8DeKvJHpAlCEGa9hI657tME5";
 		private const String CONSUMER_SECRET = "tieRk1ccVu4PoWUXLOG6IFKTQ3GYSXZpzvcRq2Z9uG3nBYoeU7";
 
